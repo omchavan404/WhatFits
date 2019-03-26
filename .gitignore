@@ -1,4 +1,3 @@
-server/packages/
 server/Gateway\.Tester/bin/
 
 server/Gateway\.Tester/obj/
@@ -32,7 +31,6 @@ server/Whatfits\.UserAccessControl\.Test/bin/
 server/Whatfits\.UserAccessControl\.Test/obj/
 
 server/server/bin/
-
 server/server/obj/
 
 server/\.vs/server/v15/Server/sqlite3/storage\.ide
